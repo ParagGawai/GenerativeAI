@@ -22,6 +22,7 @@ Make sure you have the following dependencies installed:
 
 ## Limitations and Potential Improvements:
 
+1. This is just the basic skaleton of the problem. Need hyperpamaters tunning for the better results.
 1. Both the Content loss and style loss are 0 in every epoch, this is because this model is not training well.
-2. For this problem, we can change the optimizers and activation (hyper parameters tunning) functions for the better results.
+2. For this problem, we can change the optimizers and activation (hyperparameters tunning) functions for the better results.
 3. Also we can tune the hyperparameters like num_epochs, alpha, beta, and learning_rate according to our preferences.
