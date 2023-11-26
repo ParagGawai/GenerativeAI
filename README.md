@@ -12,7 +12,7 @@ Make sure you have the following dependencies installed:
 - Matplotlib
 
 
-### Directions: 
+## Directions: 
 
 1. Open the `22CL60R04_PARAG_GAWAI.ipynb` notebook in your jupyter notebook and follow the instructions within the notebook.
 2. Execute the cells in the notebook to perform style transfer. The stylized image will be displayed at regular intervals during training.
